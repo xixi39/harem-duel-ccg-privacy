@@ -1,2 +1,2 @@
-# harem-duel-ccg-privacy
-Privacy policy for Harem Duel CCG on OpenPaaS.
+# Asterveil Arcana privacy policy
+Privacy policy for 星帷牌典 · Asterveil Arcana on OpenPaaS.
